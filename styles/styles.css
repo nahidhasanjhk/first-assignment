@@ -1,0 +1,264 @@
+*{ font-family: 'Work Sans';
+    font-style: normal;
+
+}
+.header{
+background-image: url('../images/banner/banner1.png');
+width: 1490px;
+height: 808px;
+
+
+}
+.title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+
+
+
+   
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #151414;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+.peragraph{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+
+color: #444343;
+}
+.btn{
+    background: #FD6E0A;
+    height: 64px;
+    width: 150px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0ch;
+    border-radius: 5px;
+    color: #FFFFFF;
+
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    text-align: center;
+}
+.section-2 {
+    position: absolute;
+    left: 229px;
+    top: 1136px;
+    background: rgba(241, 91, 34, 0.2);
+    border-radius: 70%;
+    width: 600px;
+    height: 600px;
+    margin: -218px;
+    background-repeat: no-repeat;
+}
+    .person{
+        margin: 3px;
+        top: 150px;
+        right: 2px;
+        
+    }
+    .sub-title{
+        position: absolute;
+        width: 288px;
+        height: 94px;
+        left: 865px;
+        top: 197px;
+        
+    
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 47px;
+        color: #151414;
+
+        
+    }
+    .peragraph2{
+        position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 320px;
+
+
+
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #444343;
+   
+  }
+  .list{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 420px;
+
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+    
+  }
+.my-plans{
+    position: absolute;
+   display: inline;
+width: 179px;
+height: 47px;
+left: 607px;
+top: 1802px;
+
+
+font-weight: 500;
+font-size: 25px;
+line-height: 15px;
+
+
+color: #151414;
+
+}
+.planss-container{
+display: flex;
+gap: 215px;
+align-items: left;
+margin-left: -540px;
+
+
+}
+.plans-title{
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: #151414;
+
+}
+.plans-description{
+    
+    font-weight: 10000;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #737272;
+
+}
+.footer-image{
+    background: url(../images/watch.png), linear-gradient(90deg, #F15B22 0.96%, rgba(241, 91, 34, 0) 100.96%);
+    border-radius: 8px;
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 500px;
+left:-450px;
+display: inline;
+}
+.title1{
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    left: 134px;
+    top: 45px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    
+    color: #FFFFFF;
+}
+.footer{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2700px;
+background: #151414;
+color: #F8F8F8;
+}
+.footer2{
+    position: absolute;
+width: 148px;
+height: 53px;
+left: 230px;
+top: 2782.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+}
+.contenar-plans1{
+    display: flex;
+    gap: 20px;
+}
+.peragraph1{
+width: 485px;
+height: 78px;
+left: 230px;
+top: 2851.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+}
+.content{
+    position: absolute;
+    width: 485px;
+    height: 317px;
+    left: 93px;
+    top: 79px;  
+}
+.subscribe{
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 737px;
+    top: 20px;
+}
+.sub-btn{
+    position: absolute;
+    width: 132.11px;
+    height: 55px;
+    left: -12px;
+    top: 152px;
+}
+.btm1{
+    background: #FD6E0A;
+    align-items: center;
+    height: 55px;
+    width: 153px;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0ch;
+    border-radius: 5px;
+    color: #FFFFFF;
+
+
+}
